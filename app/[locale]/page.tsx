@@ -217,10 +217,10 @@ export default function IndexPage() {
             </motion.div>
 
 
-            {/* Testimonials Section */}
+            {/* Testimonials Section 
             <motion.div initial="hidden" whileInView="visible" variants={fadeInUp}>
               <Testimonials />
-            </motion.div>
+            </motion.div>*/}
 
             {/* Contact Section */}
             <motion.div
