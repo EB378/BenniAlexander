@@ -293,7 +293,7 @@ const Contact = () => {
                 >
                   <EmailIcon sx={{ color: theme.palette.warning.main, fontSize: 24 }} />
                   <Link
-                    href="mailto:Air.rentals@gmail.com"
+                    href="mailto:gopher@gmail.com"
                     underline="none"
                     sx={{
                       fontSize: "0.875rem",
@@ -301,7 +301,7 @@ const Contact = () => {
                       "&:hover": { color: theme.palette.warning.light },
                     }}
                   >
-                    ekoforge@gmail.com
+                    gopher@gmail.com
                   </Link>
                 </Box>
                 <Box
@@ -317,7 +317,7 @@ const Contact = () => {
                     variant="body2"
                     sx={{ fontSize: "0.875rem", color: theme.palette.text.primary }}
                   >
-                    EkoForge 
+                    Gopher 
                   </Typography>
                 </Box>
               </MotionBox>

@@ -106,7 +106,7 @@ const Hero = () => {
                 sx={{
                   color: theme.palette.fourth.light,
                   fontWeight: "bold",
-                  fontSize: { xs: "1.8rem", sm: "2.5rem", md: "5rem", lg: "6rem" },
+                  fontSize: { xs: "1.8rem", sm: "2.5rem", md: "4rem", lg: "6rem" },
                   lineHeight: 1.2,
                   textShadow: "-3px 2px 10px rgba(255, 255, 255, 0.41)",
                 }}
@@ -171,6 +171,16 @@ const Hero = () => {
               </NextLink>
             </motion.div>
           </Box>
+          <NextImage
+            src="/Alexander_Benni_CEO.jpeg"
+            alt="Alexander Benni"
+            width={395}
+            height={550}
+            style={{
+              marginTop: "4px",
+              marginBottom: "0px",
+            }}
+          />
         </Box>
         <Box sx={{ position: "absolute", bottom: -15, left: "50%", transform: "translateX(-50%)" }}>
           <KeyboardArrowDownIcon sx={{ color: "#fff", fontSize: "3rem" }}/>

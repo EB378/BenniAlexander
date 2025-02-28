@@ -66,9 +66,9 @@ export const lightTheme = createTheme(RefineThemes.Blue, {
       contrastText: "#ffffff",
     },
     secondary: {
-      main: "#FF914D", // Orange main
+      main: "#d1b376", // Orange main
       light: "#FFB585",
-      dark: "#D9743E",
+      dark: "#846c44",
       contrastText: "#000000",
     },
     third: {
@@ -140,9 +140,9 @@ export const darkTheme = createTheme(RefineThemes.BlueDark, {
       contrastText: "#ffffff",
     },
     secondary: {
-      main: "#FF914D", // Orange main
+      main: "#d1b376", // Orange main
       light: "#FFB585",
-      dark: "#D9743E",
+      dark: "#846c44",
       contrastText: "#000000",
     },
     third: {

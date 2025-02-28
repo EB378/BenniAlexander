@@ -19,9 +19,9 @@ import Button from "@mui/material/Button";
 import { getTheme } from "@theme/theme";
 import { useColorMode } from "@contexts/color-mode";
 
-import AddBusinessIcon from '@mui/icons-material/AddBusiness';
-import LanguageIcon from '@mui/icons-material/Language';
-import TrendingUpIcon from '@mui/icons-material/TrendingUp';
+import WidgetsIcon from '@mui/icons-material/Widgets';
+import CellTowerIcon from '@mui/icons-material/CellTower';
+import LayersIcon from '@mui/icons-material/Layers';
 
 export default function IndexPage() {
   const t = useTranslations("HomePage");
@@ -43,19 +43,19 @@ export default function IndexPage() {
   // Data for the information cards.
   const cardsData = [
     {
-      icon: <AddBusinessIcon />,
+      icon: <WidgetsIcon />,
       title: t("StepOne"),
       detail: t("StepOneText"),
       gradient: `linear-gradient(to top, ${theme.palette.third.main}, ${theme.palette.primary.light})`,
     },
     {
-      icon: <LanguageIcon />,
+      icon: <CellTowerIcon />,
       title: t("StepTwo"),
       detail: t("StepTwoText"),
       gradient: `linear-gradient(to top, ${theme.palette.third.dark}, ${theme.palette.third.light})`,
     },
     {
-      icon: <TrendingUpIcon />,
+      icon: <LayersIcon />,
       title: t("StepThree"),
       detail: t("StepThreeText"),
       gradient: `linear-gradient(to top, ${theme.palette.fifth.dark}, ${theme.palette.third.main})`,

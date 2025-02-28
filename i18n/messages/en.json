@@ -1,29 +1,29 @@
 {
   "NavbarLinks": {
-    "navLink1": "What Do Our Clients Say About Us",
+    "navLink1": "Is this for me?",
     "navLink2": "Contact",
     "navLink3": "Web Examples",
-    "navLink4": "Book a Meeting"
+    "navLink4": "Book a Consult"
   },
   "HomePage": {
-    "simple": "Simple.",
-    "elegant": "Elegant.",
-    "effective": "Effective.",
-    "HeroSubTitle": "Websites and digital solutions desined for startups and small buisnesses to get a kickstart to effective growth.",
-    "CTA": "Book a Sales Call",
+    "simple": "IT Risk,",
+    "elegant": "Resilience, &",
+    "effective": "Governance",
+    "HeroSubTitle": "With over 20 years of specialised experience in corparate IT, across a multitude of niches, we are here to help you with your IT needs.",
+    "CTA": "Book a Consult",
     "Contact Us": "Contact Us",
 
-    "disrupt": "So, How Exactly Does This Work?",
-    "StepOne": "Step 1: Select A Brand For Your Business",
-    "StepTwo": "Step 2: Get Yourself A Effective Website",
-    "StepThree": "Step 3: Get Infront Of Your Customers With Powerful SEO",
-    "StepOneText": "If you haven't already, we will help you select a brand that resonates with your business and your customers.",
-    "StepTwoText": "We will design and develop a website that is tailored to your business and your customers.",
-    "StepThreeText": "We will help you get infront of your customers with powerful SEO and digital marketing strategies.",
+    "disrupt": "Areas that we drive:",
+    "StepOne": "IT Strategy Definition:",
+    "StepTwo": "IT Strategy Execution:",
+    "StepThree": "IT Domain Specific Projects and their Execution:",
+    "StepOneText": "We ensure robust business alignment (and therefore IT Investment Management).",
+    "StepTwoText": "We help you break it down into actionable items.",
+    "StepThreeText": "We can help you handle everything from Cyber Security to Privicy Compliance to IT Change Management",
     
-    "Call-To-Action": "Get Online & Start Winning Today",
-    "Call-To-Action-Sub": "Customers are searching for you right now. Let’s make sure they find you.",
-    "Book Now": "CLICK HERE TO START!"
+    "Call-To-Action": "Let's Talk & Get You On The Right Track",
+    "Call-To-Action-Sub": "The core of Gopher Consulting is Outliers (as described by Malcolm Gladwell). Outliers, are those that know, even in IT, it’s always person and people thing.",
+    "Book Now": "CLICK HERE TO APPLY!"
   },
   "Contact": {
     "title": "Contact Us",
@@ -37,7 +37,7 @@
     "title": "Testimonials"
   },
   "Footer": {
-    "aboutText": "Working with entreprenuers to create beautiful web experiances for clients.",
+    "aboutText": "We thrive in supporting high-velocity, highly regulated, and critical environments from the get-go.",
     "navigation": "Navigation",
     "navLink1": "Book a Meeting",
     "navLink2": "Testimonials",
