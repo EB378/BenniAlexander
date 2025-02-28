@@ -33,12 +33,12 @@ import type { Viewport } from "next";
 
 const defaultUrl = process.env.VERCEL_URL
   ? `https://${process.env.VERCEL_URL}`
-  : "https://ekoforge.com";
+  : "http://localhost:3000";
 
-const APP_NAME = "EkoForge";
-const APP_DEFAULT_TITLE = "EkoForge";
+const APP_NAME = "Gopher Consulting";
+const APP_DEFAULT_TITLE = "Gopher";
 const APP_TITLE_TEMPLATE = "%s - PWA App";
-const APP_DESCRIPTION = "EkoForge App";
+const APP_DESCRIPTION = "Gopher App";
 
 export const metadata: Metadata = {
   applicationName: APP_NAME,
