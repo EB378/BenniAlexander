@@ -172,8 +172,8 @@ const Hero = () => {
             </motion.div>
           </Box>
           <NextImage
-            src="/Alexander_Benni_CEO.jpeg"
-            alt="Alexander Benni"
+            src="/Hero-Diagram.jpeg"
+            alt="Cyber Security Diagram"
             width={395}
             height={550}
             style={{
