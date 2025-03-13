@@ -170,18 +170,6 @@ const Hero = () => {
                 </Button>
               </NextLink>
             </motion.div>
-          </Box>
-          <NextImage
-            src="/Hero-Diagram.jpeg"
-            alt="Cyber Security Diagram"
-            width={395}
-            height={550}
-            style={{
-              marginTop: "4px",
-              marginBottom: "0px",
-            }}
-          />
-        </Box>
         <Box sx={{ position: "absolute", bottom: -15, left: "50%", transform: "translateX(-50%)" }}>
           <KeyboardArrowDownIcon sx={{ color: "#fff", fontSize: "3rem" }}/>
         </Box>
