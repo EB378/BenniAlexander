@@ -170,6 +170,8 @@ const Hero = () => {
                 </Button>
               </NextLink>
             </motion.div>
+             </Box>
+    </Box>
         <Box sx={{ position: "absolute", bottom: -15, left: "50%", transform: "translateX(-50%)" }}>
           <KeyboardArrowDownIcon sx={{ color: "#fff", fontSize: "3rem" }}/>
         </Box>
